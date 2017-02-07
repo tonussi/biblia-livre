@@ -406,7 +406,7 @@ e havia muita erva naquele lugar. Sentaram-se, pois, os homens, em número de ci
  E todos serão ensinados por Deus. 
  Portanto todo aquele que do Pai ouviu e aprendeu, esse vem a mim.
 #v|46 %v|Não que alguém tenha visto ao Pai, a não ser aquele que é de Deus; este tem visto ao Pai.
-#v|47 %v|Em verdade, em verdade vos digo, que aquele que crê{tr,rp: em mim}{trnc: #fn|_c|N4 omite “em mim” %fn|}{n4: #fn|_c|TR, RP: “crê em mim” %fn|} tem vida eterna.
+#v|47 %v|Em verdade, em verdade vos digo, que aquele que crê{tr,rp: para dentro de mim}{trnc: #fn|_c|N4 omite “para dentro de mim” %fn|}{n4: #fn|_c|TR, RP: “crê para dentro de mim” %fn|} tem vida eterna.
 #v|48 %v|Eu sou o pão da vida.
 #v|49 %v|Vossos pais comeram o maná no deserto, e morreram.
 #v|50 %v|Este é o pão que desceu do céu, para que o ser humano coma dele e não morra.
